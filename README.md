@@ -4,7 +4,7 @@
 
 ### Up the FrontEnd Instance
 To run a front-end instance, do following:
-`npm i`
+`npm i` <br />
 `npm start`
 
 ### Up the Backend Instance
