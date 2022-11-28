@@ -1,0 +1,78 @@
+@import '../../node_modules/react-pro-sidebar/dist/scss/styles.scss';
+
+$sidebar-bg-color: #48d467;
+#header {
+    color: rgba(252, 252, 252, 0.521);
+    position: absolute;
+    width: 20%;
+//     $sidebar-bg-color: #ee0000 !default;
+// $sidebar-color: #f31414 !default;
+// $highlight-color: #eb1010 !default;
+// $submenu-bg-color: #f31111 !default;
+// $submenu-bg-color-collapsed: #ee0e0e !default;
+// $icon-bg-color: #f10707 !default;
+}
+
+
+
+// #header .menu.menu.multidiv
+// {
+//     border:"2px solid white";
+//     // color: rgba(252, 252, 252, 0.521);
+//     // position: absolute;
+//     width: 100%;
+//     overflow: "hidden";
+// }
+
+
+
+
+
+#header .closemenu {
+    color: rgb(43, 228, 18);
+    position: absolute;
+    right: 0;
+    z-index: 1;
+    line-height: 20px;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 22px;
+    top: 55px;
+    cursor: pointer;
+}
+
+#header .pro-sidebar {
+    color: rgba(31, 65, 214, 1);
+
+    width: 100%;
+    min-width: 100%;
+    height: 100vh;
+}
+
+#header .pro-sidebar.collapsed {
+    color: rgba(8, 231, 57, 0.925);
+    width: 50px;
+    min-width: 50px;
+}
+
+#header .pro-sidebar-inner {
+    box-shadow: 0.5px 0.866px 2px 0px rgba(233, 10, 10, 0.034);
+}
+
+#header .pro-sidebar-inner .pro-sidebar-layout ul {
+    color: rgba(21, 204, 45, 0.521);
+    padding: 0 5px;
+}
+
+#header .pro-sidebar-inner .pro-sidebar-layout .logotext p {
+    font-size: 20px;
+    padding: 0 20px;
+    color: rgb(30, 231, 12);
+    font-weight: bold;
+}
+
+#header .pro-sidebar-inner .pro-sidebar-layout ul .pro-inner-item {
+    color: rgb(245, 3, 3);
+    margin: 10px 0px;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: com.sun.media.imageio
+Implementation-Version: 1.1
+Archiver-Version: Plexus Archiver
+Built-By: jiayu
+Specification-Vendor: Sun Microsystems, Inc.
+Specification-Title: Java Advanced Imaging Image I/O Tools
+Extension-Name: com.sun.media.imageio
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_112
+Specification-Version: 1.1
+Implementation-Vendor: Sun Microsystems, Inc.
+

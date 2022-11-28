@@ -1,0 +1,19 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+org.apache.sedona:sedona-viz-3.0_2.12
+
+
+From: 'an unknown organization'
+  - Module awt-color-factory (https://github.com/beryx/awt-color-factory) org.beryx:awt-color-factory:jar:1.0.0
+    License: The GNU General Public License Version 2  (https://www.gnu.org/licenses/gpl-2.0.en.html)
+
+From: 'org.scala-lang.modules' (http://www.scala-lang.org/)
+  - scala-collection-compat (http://www.scala-lang.org/) org.scala-lang.modules:scala-collection-compat_2.12:jar:2.5.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
